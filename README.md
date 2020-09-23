@@ -3,6 +3,9 @@
 ## Author
 * Brian Njogu
 
+### Current Version
+September 23rd 2020
+
 ### Description
 This is a simple website that talks about pets.
 what they eat some of their toys and sleeping places
